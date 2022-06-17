@@ -1,0 +1,11 @@
+{
+ "name": "Test ERC20",
+ "website": "https://bscscan.com/",
+ "description": "this is test BEP20",
+ "explorer": "https://bscscan.com/address/0x0A992Cc8490E6ab0Ba70Fa133f25770C1641Bd2c",
+ "type": "BEP20",
+ "symbol": "TSERC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0A992Cc8490E6ab0Ba70Fa133f25770C1641Bd2c"
+}
